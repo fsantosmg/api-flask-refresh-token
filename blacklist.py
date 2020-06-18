@@ -1,0 +1,3 @@
+#OS tokens DE jti 2 E 3 ESTAO NA BLACKLIST
+#BLACKLIST = {2,3}
+BLACKLIST = set()
